@@ -31,32 +31,51 @@ esisterà una norma massima, prevalente sulle altre. Quest ordine sarà verosimi
 
 Un seconda tesi del positivismo è che le norme valide ad un qualsiasi istante e ordinamento sono norme *poste*:
 
-> [...] il diritto è sempre positivo, e la sua positività risiede nel fatto che esso è
+> […] il diritto è sempre positivo, e la sua positività risiede nel fatto che esso è
 creato ed annullato da atti di esseri umani.
 
 > Le norme di diritto positivo sono valide […] perché sono state prodotte in
 una data maniera o poste da una data persona.
 
-Norme poste sono tutte e solo quelle che stanno in una specifica relazione con un atto di produzione. Gli *atti di produzione* o *produzioni* sono comportamenti linguistici,
-compiuti da un soggetto (individuale o collegiale) che fa uso di un segno o enunciato. Gli enunciati sono oggetti materiali (o classi di oggetti materiali,
-quelle che sono le occorrenze di un enunciato), laddove le norme sono significati. Mentre l'espressione "enunciato posto da una produzione" (o "enunciato argomento di una produzione")
-è perspicua ed è chiaro a cosa si riferisca, non altrettanto può dirsi dell'espressione "norma posta": essa viene usata per rappresentare diversi concetti.
+Norme poste sono tutte e solo quelle che sono in una specifica relazione con un atto di produzione. Gli *atti di produzione* o *produzioni* sono comportamenti linguistici,
+compiuti da un soggetto (individuale o collegiale) che fa uso di un segno o enunciato. La distinzione tra enunciati e norme è una intuitiva: gli enunciati sono oggetti materiali
+(o piuttosto, oggetti materiali sono le occorrenze di un enunciato), laddove le norme, immateriali, sono una tipologia di significati; i primi possono avere una struttura grammaticale,
+ed essere oggetto di operazioni sintattiche; le seconde contengono i riferimenti, i collegamenti con la realtà. Tanto il fatto che questa distinzione è stata spesso trascurata,
+con l'identificazione della norma all'enunciato, quanto l'inosservabilità delle norme, hanno fatto sì che, mentre le espressioni "enunciato oggetto di una produzione"
+o "enunciato argomento di una produzione" siano perspicue ed è chiaro a cosa vi si riferisca, l'espressione "norma posta da una produzione", è stata ed è usata invece per denotare diversi concetti.
 Di questi diversi concetti di norma-posta parleremo a breve.
 
-Piuttosto che chiederci in che relazione siano norma posta ed atto di produzione, possiamo chiederci in che relazione siano norma posta ed enunciato posto.
-Un enunciato, infatti, può essere associato ad un insieme di uno o più significati normativi da un linguaggio, cioè da una qualsiasi funzione che associa enunciati ad insiemi di norme.
-In questa prospettiva, un enunciato non appartiene al dominio di un solo linguaggio, ma di un enorme numero di linguaggi.
-Uno fra questi, è quello che assocerà l'enunciato posto all'insieme delle norme poste da una produzione. Una norma è dunque posta da un atto di produzione
+Piuttosto che chiederci in che relazione siano norma posta ed atto di produzione, possiamo chiederci in che relazione siano norma posta ed enunciato oggetto di una produzione.
+Un enunciato, infatti, può essere associato ad un insieme di uno o più significati normativi da un *linguaggio*, cioè da una *qualsiasi* funzione che associa enunciati ad insiemi di norme.
+In questa prospettiva, un enunciato non appartiene al dominio di un solo linguaggio, ma di un enorme numero di linguaggi, di cui la maggior parte non saranno mai utilizzati.
+Un linguaggio è quello che associerà l'enunciato posto all'insieme delle norme poste da una produzione. Una norma è dunque posta da un atto di produzione
 se e solo se appartiene all'insieme dei significati che questo specifico linguaggio associa all'enunciato argomento della produzione.
 Questa riformulazione del problema della norma posta, è il motivo per cui alla teoria della posizione è stato storicamente dato un diverso nome,
 quello di teoria dell'interpretazione giuridica; ma la questione interpretativa altro non è che la questione della definizione del concetto di norma posta.
 Come problemi di questa teoria abbiamo, ad esempio, quello dell'unicità della norma posta, o quello della sua immutabilità nel tempo.
-Proprio in ragione di queste diverse possibilità, daremo in prima battuta alla relazione di posizione una struttura triadica e parleremo di norma posta ad un istante da una produzione.
+Poiché in alcune nozioni di norma-posta la norma o le norme poste da una produzione possono mutare nel tempo, daremo in prima battuta una struttura triadica
+alla relazione di posizione e parleremo di norma posta ad un istante da una produzione, dove questo istante non coincide necessariamente con quello in cui la produzione è compiuta.
 
 **P2.** Se una norma è norme valida ad un istante e ordinamento esiste una produzione che a quell'istante la pone.
 
-Veniamo ad una terza tesi del positivismo
+Veniamo ad una terza tesi del positivismo, nota come la tesi della costruzione a gradi degli ordinamenti:
 
+> Il diritto regola la propria creazione […]. Una norma giuridica è valida
+>perché è stata creata in un modo determinato da un’altra norma giuridica.
 
+> Il fondamento della validità di una norma non può essere che la validità
+di un’altra norma. […] Ma la ricerca di un fondamento della validità deve
+terminare con una norma presupposta come ultima e suprema.
 
+Quali siano le norme valide di un ordinamento, ce lo dicono insomma le norme stesse. In altre parole, la nozione di norma valida (ad un t,o) è definita in termini di se stessa:
+la circolarità è evitata con una ricorsione, la cui base è data da quella che Kelsen chiama la "norma fondamentale dell'ordinamento", una norma che ha la funzione di individuare una prima classe di norme valide.
 
+Le norme fondamentali appartengono alla classe delle norme di delegazione, disgiunta da quella delle deontiche. Se le norme deontiche hanno ad argomento azioni,
+quelle deleganti hanno ad argomento classi di atti di produzione: ad ogni dato momento, l'estensione di questa classe sarà popolata delle istanze che fino ad allora si saranno attualizzate.
+
+La definizione di norma valida ad un istante e ordinamento sarebbe perciò la seguente:
+
+**P3.**
+1. la grundnorm di un ordinamento è valida in quell'ordinamneto ad ogni istante
+2. ogni norma posta da una produzione che è ad un certo istante delegata da una norma valida a quell'istante in un ordinamento, è valida a quell'istante e ordinamento.
+3. nessun altra norma è valida ad o,t

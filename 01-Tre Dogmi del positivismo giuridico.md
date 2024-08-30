@@ -56,7 +56,7 @@ Come problemi di questa teoria abbiamo, ad esempio, quello dell'unicità della n
 Poiché in alcune nozioni di norma-posta la norma o le norme poste da una produzione possono mutare nel tempo, daremo in prima battuta una struttura triadica
 alla relazione di posizione e parleremo di norma posta ad un istante da una produzione, dove questo istante non coincide necessariamente con quello in cui la produzione è compiuta.
 
-**P2.** Se una norma è norme valida ad un istante e ordinamento esiste una produzione che a quell'istante la pone.
+**P2.** Se una norma è norme valida ad un istante e ordinamento allora esiste una produzione che a quell'istante la pone.
 
 Veniamo ad una terza tesi del positivismo, nota come la tesi della costruzione a gradi degli ordinamenti:
 
@@ -72,10 +72,12 @@ la circolarità è evitata con una ricorsione, la cui base è data da quella che
 
 Le norme fondamentali appartengono alla classe delle norme di delegazione, disgiunta da quella delle deontiche. Se le norme deontiche hanno ad argomento azioni,
 quelle deleganti hanno ad argomento classi di atti di produzione: ad ogni dato momento, l'estensione di questa classe sarà popolata delle istanze che fino ad allora si saranno attualizzate.
+Chiamiamo fonti ad un istante di un ordinamento le produzioni a quell'istante delegate da una norma valida a quell'istante e ordinamento.
 
-La definizione di norma valida ad un istante e ordinamento sarebbe perciò la seguente:
-
-**P3.**
+**P3.** *Definizione di validità*
 1. la grundnorm di un ordinamento è valida in quell'ordinamneto ad ogni istante
-2. ogni norma posta da una produzione che è ad un certo istante delegata da una norma valida a quell'istante in un ordinamento, è valida a quell'istante e ordinamento.
+2. ogni norma posta da una produzione che è fonte ad un istante di un ordinamento, è valida a quell'istante e ordinamento.
 3. nessun altra norma è valida ad o,t
+
+E riformuliamo **P2** a questo modo:
+**P2'.** Se una norma diversa dalla fondamentale è valida ad un istante è ordinamento, allora esiste una produzione che a quell'istante la pone.

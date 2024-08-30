@@ -83,4 +83,5 @@ Chiamiamo fonti ad un istante di un ordinamento le produzioni a quell'istante de
 3. nessun altra norma è valida per un dato istante e ordinamento
 
 Poiché, solo per semplicità d'esposizione, abbiamo predicato la validità delle norme fondamentali, riformuliamo **P2** a questo modo:
+
 **P2'.** Se una norma diversa dalla fondamentale è valida ad un istante e ordinamento, allora esiste una produzione che a quell'istante la pone.

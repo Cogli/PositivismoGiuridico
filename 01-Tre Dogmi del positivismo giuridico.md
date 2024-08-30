@@ -21,7 +21,10 @@ valida a quell'istante e ordinamento che avrà ad argomento una azione, la quale
 L'aspetto rilevante, qui, è che ogni norma deve poter essere messa in relazione funzionale con una specifica azione e che tra le azioni,
 e in generale tra i fatti "di cui le norme parlano", deve essere definita la relazione di implicazione o conseguenza logica.
 Da ultimo, se una azione è obbligatoria ad un certo istante e ordinamento, allora lo saranno anche tutte le azioni logicamente conseguenti ad essa (chiusura rispetto alla relazione di conseguenza logica).
-Poiché però una azione, che è obbligatoria ad un certo istante e ordinamento secondo una certa norma valida (cioè una azione che con quella norma si trova nella relazione di cui sopra)
+Poiché tra le norme valide ad un istante e ordinamento possono essercene di antinomiche, ad esempio due norme obbliganti una avente ad oggetto un'azione e l'altra
+la sua omissione, perché una azione 
+
+che è obbligatoria ad un certo istante e ordinamento secondo una certa norma valida (cioè una azione che con quella norma si trova nella relazione di cui sopra)
 può essere vietata o facoltativa secondo una seconda norma valida (sempre attraverso la stessa relazione), perché quest'azione sia obbligatoria per l'ordinamento,
 occorre aggiungere un'ulteriore condizione, e cioè che sia obbligatoria in forza di una norma prevalente su ogni altra antinomica.
 In altre parole, tra l'insieme delle norme valide si deve definire una relazione d'ordine tale che, per ogni sottoinsieme di norme antinomiche rispetto a una certa azione,

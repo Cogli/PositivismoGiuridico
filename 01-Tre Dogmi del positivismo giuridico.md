@@ -29,6 +29,33 @@ esisterà una norma massima, prevalente sulle altre. Quest ordine sarà verosimi
 
 **P1.** Ciò che può essere valido è una norma ad un istante in un ordinamento.
 
+Un seconda tesi del positivismo è che le norme valide ad un qualsiasi istante e ordinamento sono norme *poste*:
+
+> [...] il diritto è sempre positivo, e la sua positività risiede nel fatto che esso è
+creato ed annullato da atti di esseri umani.
+
+> Le norme di diritto positivo sono valide […] perché sono state prodotte in
+una data maniera o poste da una data persona.
+
+Norme poste sono tutte e solo quelle che stanno in una specifica relazione con un atto di produzione. Gli *atti di produzione* o *produzioni* sono comportamenti linguistici,
+compiuti da un soggetto (individuale o collegiale) che fa uso di un segno o enunciato. Gli enunciati sono oggetti materiali (o classi di oggetti materiali,
+quelle che sono le occorrenze di un enunciato), laddove le norme sono significati. Mentre l'espressione "enunciato posto da una produzione" (o "enunciato argomento di una produzione")
+è perspicua ed è chiaro a cosa si riferisca, non altrettanto può dirsi dell'espressione "norma posta": essa viene usata per rappresentare diversi concetti.
+Di questi diversi concetti di norma-posta parleremo a breve.
+
+Piuttosto che chiederci in che relazione siano norma posta ed atto di produzione, possiamo chiederci in che relazione siano norma posta ed enunciato posto.
+Un enunciato, infatti, può essere associato ad un insieme di uno o più significati normativi da un linguaggio, cioè da una qualsiasi funzione che associa enunciati ad insiemi di norme.
+In questa prospettiva, un enunciato non appartiene al dominio di un solo linguaggio, ma di un enorme numero di linguaggi.
+Uno fra questi, è quello che assocerà l'enunciato posto all'insieme delle norme poste da una produzione. Una norma è dunque posta da un atto di produzione
+se e solo se appartiene all'insieme dei significati che questo specifico linguaggio associa all'enunciato argomento della produzione.
+Questa riformulazione del problema della norma posta, è il motivo per cui alla teoria della posizione è stato storicamente dato un diverso nome,
+quello di teoria dell'interpretazione giuridica; ma la questione interpretativa altro non è che la questione della definizione del concetto di norma posta.
+Come problemi di questa teoria abbiamo, ad esempio, quello dell'unicità della norma posta, o quello della sua immutabilità nel tempo.
+Proprio in ragione di queste diverse possibilità, daremo in prima battuta alla relazione di posizione una struttura triadica e parleremo di norma posta ad un istante da una produzione.
+
+**P2.** Se una norma è norme valida ad un istante e ordinamento esiste una produzione che a quell'istante la pone.
+
+Veniamo ad una terza tesi del positivismo
 
 
 

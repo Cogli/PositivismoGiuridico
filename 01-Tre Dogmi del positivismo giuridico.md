@@ -58,7 +58,7 @@ alla relazione di posizione e parleremo di norma posta ad un istante da una prod
 
 **P2.** Se una norma è norme valida ad un istante e ordinamento allora esiste una produzione che a quell'istante la pone.
 
-Veniamo ad una terza tesi del positivismo, nota come la tesi della costruzione a gradi degli ordinamenti:
+**P2** è nient'altro che una conseguenza di una terza tesi del positivismo, nota come la tesi della costruzione a gradi degli ordinamenti:
 
 > Il diritto regola la propria creazione […]. Una norma giuridica è valida
 >perché è stata creata in un modo determinato da un’altra norma giuridica.
@@ -67,8 +67,8 @@ Veniamo ad una terza tesi del positivismo, nota come la tesi della costruzione a
 di un’altra norma. […] Ma la ricerca di un fondamento della validità deve
 terminare con una norma presupposta come ultima e suprema.
 
-Quali siano le norme valide di un ordinamento, ce lo dicono insomma le norme stesse. In altre parole, la nozione di norma valida (ad un t,o) è definita in termini di se stessa:
-la circolarità è evitata con una ricorsione, la cui base è data da quella che Kelsen chiama la "norma fondamentale dell'ordinamento", una norma che ha la funzione di individuare una prima classe di norme valide.
+Quali siano le norme valide di un ordinamento, ce lo dicono insomma le norme stesse. In altre parole, la nozione di norma valida (ad un t,o) è definita con una ricorsione,
+la cui base è data da quella che Kelsen chiama la "norma fondamentale dell'ordinamento", una norma che ha la funzione di individuare una prima classe di norme valide.
 
 Le norme fondamentali appartengono alla classe delle norme di delegazione, disgiunta da quella delle deontiche. Se le norme deontiche hanno ad argomento azioni,
 quelle deleganti hanno ad argomento classi di atti di produzione: ad ogni dato momento, l'estensione di questa classe sarà popolata delle istanze che fino ad allora si saranno attualizzate.
@@ -76,8 +76,8 @@ Chiamiamo fonti ad un istante di un ordinamento le produzioni a quell'istante de
 
 **P3.** *Definizione di validità*
 1. la grundnorm di un ordinamento è valida in quell'ordinamneto ad ogni istante
-2. ogni norma posta da una produzione che è fonte ad un istante di un ordinamento, è valida a quell'istante e ordinamento.
-3. nessun altra norma è valida ad o,t
+2. ogni norma posta ad un istante da una produzione che è fonte a quell'istante di un ordinamento, è valida a quell'istante e ordinamento.
+3. nessun altra norma è valida per un dato istante e ordinamento
 
-E riformuliamo **P2** a questo modo:
-**P2'.** Se una norma diversa dalla fondamentale è valida ad un istante è ordinamento, allora esiste una produzione che a quell'istante la pone.
+Poiché, solo per semplicità d'esposizione, abbiamo predicato la validità delle norme fondamentali, riformuliamo **P2** a questo modo:
+**P2'.** Se una norma diversa dalla fondamentale è valida ad un istante e ordinamento, allora esiste una produzione che a quell'istante la pone.

@@ -35,10 +35,10 @@ esisterà una norma massima, prevalente sulle altre. Quest ordine sarà verosimi
 Un seconda tesi del positivismo è che le norme valide ad un qualsiasi istante e ordinamento sono norme *poste*:
 
 > […] il diritto è sempre positivo, e la sua positività risiede nel fatto che esso è
-creato ed annullato da atti di esseri umani.
+  creato ed annullato da atti di esseri umani.
 
 > Le norme di diritto positivo sono valide […] perché sono state prodotte in
-una data maniera o poste da una data persona.
+   una data maniera o poste da una data persona.
 
 Norme poste sono tutte e solo quelle che sono in una specifica relazione con un atto di produzione. Gli *atti di produzione* o *produzioni* sono comportamenti linguistici,
 compiuti da un soggetto (individuale o collegiale) che fa uso di un segno o enunciato. La distinzione tra enunciati e norme è una intuitiva: gli enunciati sono oggetti materiali
@@ -64,11 +64,11 @@ alla relazione di posizione e parleremo di norma posta ad un istante da una prod
 **P2** è nient'altro che una conseguenza di una terza tesi del positivismo, nota come la tesi della costruzione a gradi degli ordinamenti:
 
 > Il diritto regola la propria creazione […]. Una norma giuridica è valida
->perché è stata creata in un modo determinato da un’altra norma giuridica.
+  perché è stata creata in un modo determinato da un’altra norma giuridica.
 
 > Il fondamento della validità di una norma non può essere che la validità
-di un’altra norma. […] Ma la ricerca di un fondamento della validità deve
-terminare con una norma presupposta come ultima e suprema.
+  di un’altra norma. […] Ma la ricerca di un fondamento della validità deve
+  terminare con una norma presupposta come ultima e suprema.
 
 Quali siano le norme valide di un ordinamento, ce lo dicono insomma le norme stesse. In altre parole, la nozione di norma valida (ad un t,o) è definita con una ricorsione,
 la cui base è data da quella che Kelsen chiama la "norma fondamentale dell'ordinamento", una norma che ha la funzione di individuare una prima classe di norme valide.
@@ -77,10 +77,12 @@ Le norme fondamentali appartengono alla classe delle norme di delegazione, disgi
 quelle deleganti hanno ad argomento classi di atti di produzione: ad ogni dato momento, l'estensione di questa classe sarà popolata delle istanze che fino ad allora si saranno attualizzate.
 Chiamiamo fonti ad un istante di un ordinamento le produzioni a quell'istante delegate da una norma valida a quell'istante e ordinamento.
 
-**P3.** *Definizione di validità*
-1. la grundnorm di un ordinamento è valida in quell'ordinamneto ad ogni istante
+**P3.** *Definizione di validità o costruzione a gradi degli ordinamenti*
+1. la grundnorm di un ordinamento è valida in quell'ordinamento ad ogni istante
 2. ogni norma posta ad un istante da una produzione che è fonte a quell'istante di un ordinamento, è valida a quell'istante e ordinamento.
 3. nessun altra norma è valida per un dato istante e ordinamento
+
+In ragione di questa definizione, la validità e dunque la posizione di una norma di delegazione deve essere indipendente da qualsiasi fatto riguardante le produzioni che essa delega.
 
 Poiché, solo per semplicità d'esposizione, abbiamo predicato la validità delle norme fondamentali, riformuliamo **P2** a questo modo:
 
